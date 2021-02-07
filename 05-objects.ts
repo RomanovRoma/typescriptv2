@@ -1,4 +1,4 @@
-//Objects
+// Objects
 // Simple object example
 let user = {
   name: "Roman",
